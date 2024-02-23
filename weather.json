@@ -2,21 +2,21 @@
   "city": "Moscow",
   "latitude": 55.7522,
   "longitude": 37.6156,
-  "temperature_celsius": -2.58,
+  "temperature_celsius": -2.27,
   "condition": "Snow",
   "condition_description": "light snow",
   "icon_code": "13n",
   "temp_min_celsius": -3.88,
   "temp_max_celsius": -1.71,
-  "humidity": 97,
-  "feels_like_celsius": -7.76,
+  "humidity": 96,
+  "feels_like_celsius": -7.41,
   "pressure": 1020,
-  "visibility": 235,
+  "visibility": 741,
   "wind_deg": 147,
-  "gust_speed": 10.83,
-  "wind_speed": 4.42,
+  "gust_speed": 11.1,
+  "wind_speed": 4.47,
   "rainfall_mm": ,
-  "snowfall_mm": 7.87,
+  "snowfall_mm": 3.81,
   "clouds": 100,
   "sunrise_readable": "2024-02-23 11:37:29",
   "sunset_readable": "2024-02-23 21:48:52",
@@ -26,17 +26,12 @@
   "wind_direction_text": "South-Southeast",
   "weather_description_with_wind": "Wind Direction: South-Southeast",
   "forecast_24h": [          {
-            "temperature_celsius": -2.58,
-            "condition": "Snow",
-            "icon_code": "13n",
-            "date_readable": "10:00"
-          },          {
-            "temperature_celsius": -1.93,
+            "temperature_celsius": -1.72,
             "condition": "Snow",
             "icon_code": "13d",
             "date_readable": "13:00"
           },          {
-            "temperature_celsius": -.47,
+            "temperature_celsius": -.36,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "16:00"
@@ -65,6 +60,11 @@
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "07:00"
+          },          {
+            "temperature_celsius": -1.70,
+            "condition": "Clouds",
+            "icon_code": "04n",
+            "date_readable": "10:00"
           },
   ]
 }
