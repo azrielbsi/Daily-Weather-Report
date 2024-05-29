@@ -2,19 +2,19 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": 21.17,
+  "temperature_celsius": 20.53,
   "condition": "Clouds",
   "condition_description": "few clouds",
   "icon_code": "02n",
-  "temp_min_celsius": 19.30,
-  "temp_max_celsius": 22.11,
-  "humidity": 66,
-  "feels_like_celsius": 21.07,
-  "pressure": 1011,
+  "temp_min_celsius": 18.75,
+  "temp_max_celsius": 21.47,
+  "humidity": 70,
+  "feels_like_celsius": 20.47,
+  "pressure": 1012,
   "visibility": 10000,
-  "wind_deg": 110,
+  "wind_deg": 140,
   "gust_speed": ,
-  "wind_speed": 4.12,
+  "wind_speed": 2.57,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 20,
@@ -23,22 +23,17 @@
   "timezone": 32400,
   "coord_lon": 139.6929,
   "coord_lat": 35.689,
-  "wind_direction_text": "East-Southeast",
-  "weather_description_with_wind": "Wind Direction: East-Southeast",
+  "wind_direction_text": "Southeast",
+  "weather_description_with_wind": "Wind Direction: Southeast",
   "forecast_24h": [          {
-            "temperature_celsius": 21.17,
-            "condition": "Clouds",
-            "icon_code": "03n",
-            "date_readable": "19:00"
-          },          {
-            "temperature_celsius": 20.65,
-            "condition": "Clouds",
-            "icon_code": "03n",
-            "date_readable": "22:00"
-          },          {
-            "temperature_celsius": 19.75,
+            "temperature_celsius": 20.21,
             "condition": "Clouds",
             "icon_code": "02n",
+            "date_readable": "22:00"
+          },          {
+            "temperature_celsius": 19.53,
+            "condition": "Clear",
+            "icon_code": "01n",
             "date_readable": "01:00"
           },          {
             "temperature_celsius": 19.32,
@@ -65,6 +60,11 @@
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "16:00"
+          },          {
+            "temperature_celsius": 21.91,
+            "condition": "Clouds",
+            "icon_code": "04n",
+            "date_readable": "19:00"
           },
   ]
 }
