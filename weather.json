@@ -2,41 +2,36 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": 25.03,
+  "temperature_celsius": 25.04,
   "condition": "Clouds",
   "condition_description": "broken clouds",
   "icon_code": "04n",
-  "temp_min_celsius": 23.70,
-  "temp_max_celsius": 25.90,
+  "temp_min_celsius": 23.67,
+  "temp_max_celsius": 26.46,
   "humidity": 90,
-  "feels_like_celsius": 25.94,
+  "feels_like_celsius": 25.95,
   "pressure": 1014,
   "visibility": 10000,
-  "wind_deg": 290,
-  "gust_speed": ,
-  "wind_speed": 1.54,
+  "wind_deg": 97,
+  "gust_speed": 2.68,
+  "wind_speed": 1.79,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 75,
-  "sunrise_readable": "2024-07-14 02:35:56",
-  "sunset_readable": "2024-07-14 16:57:49",
+  "sunrise_readable": "2024-07-15 02:36:35",
+  "sunset_readable": "2024-07-15 16:57:22",
   "timezone": 32400,
-  "coord_lon": 139.6917,
-  "coord_lat": 35.6895,
-  "wind_direction_text": "West-Northwest",
-  "weather_description_with_wind": "Wind Direction: West-Northwest",
+  "coord_lon": 139.6929,
+  "coord_lat": 35.689,
+  "wind_direction_text": "East",
+  "weather_description_with_wind": "Wind Direction: East",
   "forecast_24h": [          {
-            "temperature_celsius": 25.03,
-            "condition": "Rain",
-            "icon_code": "10n",
-            "date_readable": "22:00"
-          },          {
-            "temperature_celsius": 24.95,
+            "temperature_celsius": 24.93,
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "01:00"
           },          {
-            "temperature_celsius": 24.38,
+            "temperature_celsius": 24.37,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "04:00"
@@ -65,6 +60,11 @@
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "19:00"
+          },          {
+            "temperature_celsius": 22.66,
+            "condition": "Rain",
+            "icon_code": "10n",
+            "date_readable": "22:00"
           },
   ]
 }
