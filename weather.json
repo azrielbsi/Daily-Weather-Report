@@ -7,8 +7,8 @@
   "condition_description": "broken clouds",
   "icon_code": "04n",
   "temp_min_celsius": 24.81,
-  "temp_max_celsius": 27.57,
-  "humidity": 89,
+  "temp_max_celsius": 27.66,
+  "humidity": 88,
   "feels_like_celsius": 26.63,
   "pressure": 1011,
   "visibility": 10000,
@@ -21,17 +21,17 @@
   "sunrise_readable": "2024-08-25 03:08:01",
   "sunset_readable": "2024-08-25 16:19:06",
   "timezone": 32400,
-  "coord_lon": 139.6929,
-  "coord_lat": 35.689,
+  "coord_lon": 139.6917,
+  "coord_lat": 35.6895,
   "wind_direction_text": "North",
   "weather_description_with_wind": "Wind Direction: North",
   "forecast_24h": [          {
-            "temperature_celsius": 26.84,
+            "temperature_celsius": 26.89,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "04:00"
           },          {
-            "temperature_celsius": 28.46,
+            "temperature_celsius": 28.48,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "07:00"
