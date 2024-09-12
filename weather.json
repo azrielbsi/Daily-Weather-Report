@@ -2,43 +2,38 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": 33.48,
+  "temperature_celsius": 34.26,
   "condition": "Clouds",
-  "condition_description": "scattered clouds",
-  "icon_code": "03d",
-  "temp_min_celsius": 32.60,
-  "temp_max_celsius": 34.77,
-  "humidity": 63,
-  "feels_like_celsius": 40.48,
+  "condition_description": "broken clouds",
+  "icon_code": "04d",
+  "temp_min_celsius": 32.56,
+  "temp_max_celsius": 35.33,
+  "humidity": 60,
+  "feels_like_celsius": 41.26,
   "pressure": 1015,
   "visibility": 10000,
   "wind_deg": 180,
   "gust_speed": ,
-  "wind_speed": 6.69,
+  "wind_speed": 7.2,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 40,
-  "sunrise_readable": "2024-09-12 03:21:38",
-  "sunset_readable": "2024-09-12 15:53:49",
+  "clouds": 75,
+  "sunrise_readable": "2024-09-12 03:21:37",
+  "sunset_readable": "2024-09-12 15:53:47",
   "timezone": 32400,
-  "coord_lon": 139.686,
-  "coord_lat": 35.686,
+  "coord_lon": 139.6917,
+  "coord_lat": 35.6895,
   "wind_direction_text": "South",
   "weather_description_with_wind": "Wind Direction: South",
   "forecast_24h": [          {
-            "temperature_celsius": 33.40,
-            "condition": "Rain",
-            "icon_code": "10d",
-            "date_readable": "10:00"
-          },          {
-            "temperature_celsius": 32.99,
+            "temperature_celsius": 33.56,
             "condition": "Clouds",
-            "icon_code": "03d",
+            "icon_code": "04d",
             "date_readable": "13:00"
           },          {
-            "temperature_celsius": 31.16,
+            "temperature_celsius": 31.45,
             "condition": "Clouds",
-            "icon_code": "02n",
+            "icon_code": "03n",
             "date_readable": "16:00"
           },          {
             "temperature_celsius": 28.91,
@@ -65,6 +60,11 @@
             "condition": "Clear",
             "icon_code": "01d",
             "date_readable": "07:00"
+          },          {
+            "temperature_celsius": 32.31,
+            "condition": "Clouds",
+            "icon_code": "03d",
+            "date_readable": "10:00"
           },
   ]
 }
