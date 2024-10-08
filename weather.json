@@ -8,29 +8,24 @@
   "icon_code": "09n",
   "temp_min_celsius": 14.77,
   "temp_max_celsius": 15.99,
-  "humidity": 93,
-  "feels_like_celsius": 15.30,
+  "humidity": 95,
+  "feels_like_celsius": 15.36,
   "pressure": 1012,
-  "visibility": 7000,
-  "wind_deg": 350,
+  "visibility": 5000,
+  "wind_deg": 340,
   "gust_speed": ,
   "wind_speed": 9.77,
-  "rainfall_mm": 106.93,
+  "rainfall_mm": 123.44,
   "snowfall_mm": ,
   "clouds": 75,
   "sunrise_readable": "2024-10-09 03:42:22",
-  "sunset_readable": "2024-10-09 15:14:21",
+  "sunset_readable": "2024-10-09 15:14:22",
   "timezone": 32400,
-  "coord_lon": 139.6929,
-  "coord_lat": 35.689,
-  "wind_direction_text": "North",
-  "weather_description_with_wind": "Wind Direction: North",
+  "coord_lon": 139.6917,
+  "coord_lat": 35.6895,
+  "wind_direction_text": "North-Northwest",
+  "weather_description_with_wind": "Wind Direction: North-Northwest",
   "forecast_24h": [          {
-            "temperature_celsius": 15.29,
-            "condition": "Rain",
-            "icon_code": "10n",
-            "date_readable": "01:00"
-          },          {
             "temperature_celsius": 15.68,
             "condition": "Rain",
             "icon_code": "10d",
@@ -65,6 +60,11 @@
             "condition": "Clear",
             "icon_code": "01n",
             "date_readable": "22:00"
+          },          {
+            "temperature_celsius": 16.78,
+            "condition": "Clouds",
+            "icon_code": "03n",
+            "date_readable": "01:00"
           },
   ]
 }
