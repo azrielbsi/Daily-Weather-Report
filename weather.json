@@ -2,41 +2,36 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": 16.46,
-  "condition": "Clouds",
-  "condition_description": "broken clouds",
-  "icon_code": "04d",
-  "temp_min_celsius": 15.70,
+  "temperature_celsius": 16.57,
+  "condition": "Rain",
+  "condition_description": "light intensity shower rain",
+  "icon_code": "09d",
+  "temp_min_celsius": 15.91,
   "temp_max_celsius": 17.66,
-  "humidity": 95,
-  "feels_like_celsius": 16.64,
+  "humidity": 90,
+  "feels_like_celsius": 16.63,
   "pressure": 1011,
-  "visibility": 8000,
+  "visibility": 10000,
   "wind_deg": 350,
   "gust_speed": ,
   "wind_speed": 7.72,
-  "rainfall_mm": ,
+  "rainfall_mm": 106.93,
   "snowfall_mm": ,
   "clouds": 75,
   "sunrise_readable": "2024-10-09 03:42:22",
-  "sunset_readable": "2024-10-09 15:14:21",
+  "sunset_readable": "2024-10-09 15:14:22",
   "timezone": 32400,
-  "coord_lon": 139.6929,
-  "coord_lat": 35.689,
+  "coord_lon": 139.6917,
+  "coord_lat": 35.6895,
   "wind_direction_text": "North",
   "weather_description_with_wind": "Wind Direction: North",
   "forecast_24h": [          {
-            "temperature_celsius": 16.46,
-            "condition": "Rain",
-            "icon_code": "10d",
-            "date_readable": "10:00"
-          },          {
-            "temperature_celsius": 16.76,
+            "temperature_celsius": 16.82,
             "condition": "Rain",
             "icon_code": "10d",
             "date_readable": "13:00"
           },          {
-            "temperature_celsius": 17.37,
+            "temperature_celsius": 17.40,
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "16:00"
@@ -65,6 +60,11 @@
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "07:00"
+          },          {
+            "temperature_celsius": 19.34,
+            "condition": "Clouds",
+            "icon_code": "04d",
+            "date_readable": "10:00"
           },
   ]
 }
