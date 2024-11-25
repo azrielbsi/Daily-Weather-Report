@@ -2,41 +2,36 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": 12.29,
+  "temperature_celsius": 11.59,
   "condition": "Clouds",
   "condition_description": "few clouds",
   "icon_code": "02n",
-  "temp_min_celsius": 10.90,
-  "temp_max_celsius": 13.13,
-  "humidity": 46,
-  "feels_like_celsius": 10.78,
-  "pressure": 1029,
+  "temp_min_celsius": 10.33,
+  "temp_max_celsius": 12.79,
+  "humidity": 53,
+  "feels_like_celsius": 10.19,
+  "pressure": 1030,
   "visibility": 10000,
-  "wind_deg": 70,
+  "wind_deg": 110,
   "gust_speed": ,
-  "wind_speed": 2.57,
+  "wind_speed": 4.12,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 20,
   "sunrise_readable": "2024-11-25 04:27:02",
   "sunset_readable": "2024-11-25 14:29:45",
   "timezone": 32400,
-  "coord_lon": 139.6929,
-  "coord_lat": 35.689,
-  "wind_direction_text": "East-Northeast",
-  "weather_description_with_wind": "Wind Direction: East-Northeast",
+  "coord_lon": 139.6917,
+  "coord_lat": 35.6895,
+  "wind_direction_text": "East-Southeast",
+  "weather_description_with_wind": "Wind Direction: East-Southeast",
   "forecast_24h": [          {
-            "temperature_celsius": 12.29,
-            "condition": "Clouds",
-            "icon_code": "02n",
-            "date_readable": "16:00"
-          },          {
-            "temperature_celsius": 12.34,
+            "temperature_celsius": 11.87,
             "condition": "Clouds",
             "icon_code": "02n",
             "date_readable": "19:00"
           },          {
-            "temperature_celsius": 12.00,
+            "temperature_celsius": 11.76,
             "condition": "Clear",
             "icon_code": "01n",
             "date_readable": "22:00"
@@ -65,6 +60,11 @@
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "13:00"
+          },          {
+            "temperature_celsius": 13.61,
+            "condition": "Clouds",
+            "icon_code": "04n",
+            "date_readable": "16:00"
           },
   ]
 }
