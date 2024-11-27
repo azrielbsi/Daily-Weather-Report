@@ -2,41 +2,36 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": 15.45,
+  "temperature_celsius": 14.96,
   "condition": "Clear",
   "condition_description": "clear sky",
   "icon_code": "01n",
-  "temp_min_celsius": 14.21,
-  "temp_max_celsius": 15.91,
-  "humidity": 43,
-  "feels_like_celsius": 14.17,
-  "pressure": 1005,
+  "temp_min_celsius": 13.66,
+  "temp_max_celsius": 15.79,
+  "humidity": 44,
+  "feels_like_celsius": 13.66,
+  "pressure": 1004,
   "visibility": 10000,
-  "wind_deg": 240,
+  "wind_deg": 220,
   "gust_speed": ,
-  "wind_speed": 5.66,
+  "wind_speed": 5.14,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 0,
-  "sunrise_readable": "2024-11-27 04:28:57",
-  "sunset_readable": "2024-11-27 14:29:07",
+  "sunrise_readable": "2024-11-28 04:29:54",
+  "sunset_readable": "2024-11-28 14:28:50",
   "timezone": 32400,
   "coord_lon": 139.6929,
   "coord_lat": 35.689,
-  "wind_direction_text": "West-Southwest",
-  "weather_description_with_wind": "Wind Direction: West-Southwest",
+  "wind_direction_text": "Southwest",
+  "weather_description_with_wind": "Wind Direction: Southwest",
   "forecast_24h": [          {
-            "temperature_celsius": 15.23,
-            "condition": "Clear",
-            "icon_code": "01n",
-            "date_readable": "22:00"
-          },          {
-            "temperature_celsius": 14.62,
+            "temperature_celsius": 14.44,
             "condition": "Clear",
             "icon_code": "01n",
             "date_readable": "01:00"
           },          {
-            "temperature_celsius": 12.93,
+            "temperature_celsius": 12.84,
             "condition": "Clear",
             "icon_code": "01n",
             "date_readable": "04:00"
@@ -65,6 +60,11 @@
             "condition": "Clear",
             "icon_code": "01n",
             "date_readable": "19:00"
+          },          {
+            "temperature_celsius": 11.88,
+            "condition": "Clear",
+            "icon_code": "01n",
+            "date_readable": "22:00"
           },
   ]
 }
