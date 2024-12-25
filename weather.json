@@ -2,43 +2,38 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": 5.09,
-  "condition": "Clear",
-  "condition_description": "clear sky",
-  "icon_code": "01n",
-  "temp_min_celsius": 3.66,
+  "temperature_celsius": 5.64,
+  "condition": "Clouds",
+  "condition_description": "scattered clouds",
+  "icon_code": "03n",
+  "temp_min_celsius": 4.79,
   "temp_max_celsius": 5.91,
-  "humidity": 55,
-  "feels_like_celsius": 5.09,
+  "humidity": 57,
+  "feels_like_celsius": 3.60,
   "pressure": 1016,
   "visibility": 10000,
-  "wind_deg": 0,
+  "wind_deg": 30,
   "gust_speed": ,
-  "wind_speed": 0.51,
+  "wind_speed": 2.57,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 0,
+  "clouds": 40,
   "sunrise_readable": "2024-12-26 04:49:18",
   "sunset_readable": "2024-12-26 14:34:01",
   "timezone": 32400,
   "coord_lon": 139.6929,
   "coord_lat": 35.689,
-  "wind_direction_text": "North",
-  "weather_description_with_wind": "Wind Direction: North",
+  "wind_direction_text": "North-Northeast",
+  "weather_description_with_wind": "Wind Direction: North-Northeast",
   "forecast_24h": [          {
-            "temperature_celsius": 5.08,
-            "condition": "Clear",
-            "icon_code": "01n",
-            "date_readable": "04:00"
-          },          {
-            "temperature_celsius": 6.07,
+            "temperature_celsius": 6.45,
             "condition": "Clouds",
-            "icon_code": "03d",
+            "icon_code": "04d",
             "date_readable": "07:00"
           },          {
-            "temperature_celsius": 8.92,
+            "temperature_celsius": 9.11,
             "condition": "Clouds",
-            "icon_code": "03d",
+            "icon_code": "04d",
             "date_readable": "10:00"
           },          {
             "temperature_celsius": 12.75,
@@ -65,6 +60,11 @@
             "condition": "Clouds",
             "icon_code": "03n",
             "date_readable": "01:00"
+          },          {
+            "temperature_celsius": 7.84,
+            "condition": "Clouds",
+            "icon_code": "03n",
+            "date_readable": "04:00"
           },
   ]
 }
