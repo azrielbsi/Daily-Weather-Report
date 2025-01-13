@@ -9,12 +9,12 @@
   "temp_min_celsius": 3.68,
   "temp_max_celsius": 6.79,
   "humidity": 48,
-  "feels_like_celsius": 2.49,
+  "feels_like_celsius": 2.79,
   "pressure": 1021,
   "visibility": 10000,
-  "wind_deg": 360,
+  "wind_deg": 20,
   "gust_speed": ,
-  "wind_speed": 4.12,
+  "wind_speed": 3.6,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 20,
@@ -23,20 +23,20 @@
   "timezone": 32400,
   "coord_lon": 139.6917,
   "coord_lat": 35.6895,
-  "wind_direction_text": "North",
-  "weather_description_with_wind": "Wind Direction: North",
+  "wind_direction_text": "North-Northeast",
+  "weather_description_with_wind": "Wind Direction: North-Northeast",
   "forecast_24h": [          {
-            "temperature_celsius": 5.65,
+            "temperature_celsius": 5.57,
             "condition": "Clouds",
             "icon_code": "02n",
             "date_readable": "01:00"
           },          {
-            "temperature_celsius": 5.42,
+            "temperature_celsius": 5.49,
             "condition": "Clouds",
             "icon_code": "02n",
             "date_readable": "04:00"
           },          {
-            "temperature_celsius": 6.10,
+            "temperature_celsius": 5.92,
             "condition": "Clear",
             "icon_code": "01d",
             "date_readable": "07:00"
