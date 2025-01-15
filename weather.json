@@ -2,22 +2,22 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": 9.95,
+  "temperature_celsius": 9.28,
   "condition": "Clouds",
-  "condition_description": "few clouds",
-  "icon_code": "02n",
-  "temp_min_celsius": 8.70,
-  "temp_max_celsius": 10.90,
-  "humidity": 39,
-  "feels_like_celsius": 6.19,
-  "pressure": 1009,
+  "condition_description": "scattered clouds",
+  "icon_code": "03n",
+  "temp_min_celsius": 8.10,
+  "temp_max_celsius": 10.31,
+  "humidity": 38,
+  "feels_like_celsius": 4.98,
+  "pressure": 1010,
   "visibility": 10000,
-  "wind_deg": 340,
-  "gust_speed": ,
-  "wind_speed": 9.77,
+  "wind_deg": 330,
+  "gust_speed": 16.46,
+  "wind_speed": 11.32,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 20,
+  "clouds": 40,
   "sunrise_readable": "2025-01-15 04:50:20",
   "sunset_readable": "2025-01-15 14:50:18",
   "timezone": 32400,
@@ -26,19 +26,14 @@
   "wind_direction_text": "North-Northwest",
   "weather_description_with_wind": "Wind Direction: North-Northwest",
   "forecast_24h": [          {
-            "temperature_celsius": 9.95,
+            "temperature_celsius": 8.30,
             "condition": "Clouds",
-            "icon_code": "02n",
-            "date_readable": "16:00"
-          },          {
-            "temperature_celsius": 8.75,
-            "condition": "Clouds",
-            "icon_code": "02n",
+            "icon_code": "03n",
             "date_readable": "19:00"
           },          {
-            "temperature_celsius": 6.52,
-            "condition": "Clear",
-            "icon_code": "01n",
+            "temperature_celsius": 6.30,
+            "condition": "Clouds",
+            "icon_code": "02n",
             "date_readable": "22:00"
           },          {
             "temperature_celsius": 4.22,
@@ -65,6 +60,11 @@
             "condition": "Clouds",
             "icon_code": "02d",
             "date_readable": "13:00"
+          },          {
+            "temperature_celsius": 7.13,
+            "condition": "Clear",
+            "icon_code": "01n",
+            "date_readable": "16:00"
           },
   ]
 }
