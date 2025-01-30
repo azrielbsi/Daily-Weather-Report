@@ -2,41 +2,36 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": 5.12,
+  "temperature_celsius": 4.90,
   "condition": "Clear",
   "condition_description": "clear sky",
   "icon_code": "01n",
-  "temp_min_celsius": 3.12,
-  "temp_max_celsius": 5.91,
-  "humidity": 42,
-  "feels_like_celsius": 3.73,
+  "temp_min_celsius": 2.59,
+  "temp_max_celsius": 5.79,
+  "humidity": 40,
+  "feels_like_celsius": -.19,
   "pressure": 1017,
   "visibility": 10000,
-  "wind_deg": 355,
-  "gust_speed": 4.02,
-  "wind_speed": 1.79,
+  "wind_deg": 330,
+  "gust_speed": ,
+  "wind_speed": 8.75,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 0,
-  "sunrise_readable": "2025-01-30 04:43:03",
-  "sunset_readable": "2025-01-30 15:05:44",
+  "sunrise_readable": "2025-01-31 04:42:20",
+  "sunset_readable": "2025-01-31 15:06:47",
   "timezone": 32400,
   "coord_lon": 139.6917,
   "coord_lat": 35.6895,
-  "wind_direction_text": "North",
-  "weather_description_with_wind": "Wind Direction: North",
+  "wind_direction_text": "North-Northwest",
+  "weather_description_with_wind": "Wind Direction: North-Northwest",
   "forecast_24h": [          {
-            "temperature_celsius": 5.13,
-            "condition": "Clear",
-            "icon_code": "01n",
-            "date_readable": "22:00"
-          },          {
-            "temperature_celsius": 5.02,
+            "temperature_celsius": 4.76,
             "condition": "Clear",
             "icon_code": "01n",
             "date_readable": "01:00"
           },          {
-            "temperature_celsius": 4.56,
+            "temperature_celsius": 4.43,
             "condition": "Clear",
             "icon_code": "01n",
             "date_readable": "04:00"
@@ -65,6 +60,11 @@
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "19:00"
+          },          {
+            "temperature_celsius": 6.96,
+            "condition": "Clouds",
+            "icon_code": "02n",
+            "date_readable": "22:00"
           },
   ]
 }
