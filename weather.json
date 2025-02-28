@@ -2,41 +2,36 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": 15.06,
+  "temperature_celsius": 14.25,
   "condition": "Clear",
   "condition_description": "clear sky",
-  "icon_code": "01d",
-  "temp_min_celsius": 13.77,
-  "temp_max_celsius": 16.55,
-  "humidity": 39,
-  "feels_like_celsius": 13.64,
-  "pressure": 1017,
+  "icon_code": "01n",
+  "temp_min_celsius": 12.66,
+  "temp_max_celsius": 15.44,
+  "humidity": 42,
+  "feels_like_celsius": 12.83,
+  "pressure": 1018,
   "visibility": 10000,
-  "wind_deg": 78,
-  "gust_speed": 0.83,
-  "wind_speed": 1.25,
+  "wind_deg": 34,
+  "gust_speed": 1.71,
+  "wind_speed": 2.04,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 1,
+  "clouds": 3,
   "sunrise_readable": "2025-02-28 04:13:10",
   "sunset_readable": "2025-02-28 15:34:51",
   "timezone": 32400,
   "coord_lon": 139.6917,
   "coord_lat": 35.6895,
-  "wind_direction_text": "East-Northeast",
-  "weather_description_with_wind": "Wind Direction: East-Northeast",
+  "wind_direction_text": "Northeast",
+  "weather_description_with_wind": "Wind Direction: Northeast",
   "forecast_24h": [          {
-            "temperature_celsius": 15.04,
-            "condition": "Clear",
-            "icon_code": "01n",
-            "date_readable": "16:00"
-          },          {
-            "temperature_celsius": 14.62,
+            "temperature_celsius": 14.08,
             "condition": "Clear",
             "icon_code": "01n",
             "date_readable": "19:00"
           },          {
-            "temperature_celsius": 13.18,
+            "temperature_celsius": 12.91,
             "condition": "Clear",
             "icon_code": "01n",
             "date_readable": "22:00"
@@ -65,6 +60,11 @@
             "condition": "Clear",
             "icon_code": "01d",
             "date_readable": "13:00"
+          },          {
+            "temperature_celsius": 15.62,
+            "condition": "Clouds",
+            "icon_code": "03n",
+            "date_readable": "16:00"
           },
   ]
 }
