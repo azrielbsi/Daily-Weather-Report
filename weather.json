@@ -2,43 +2,38 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": 8.40,
+  "temperature_celsius": 9.29,
   "condition": "Clouds",
-  "condition_description": "broken clouds",
-  "icon_code": "04n",
-  "temp_min_celsius": 7.55,
-  "temp_max_celsius": 8.79,
-  "humidity": 70,
-  "feels_like_celsius": 6.53,
+  "condition_description": "few clouds",
+  "icon_code": "02n",
+  "temp_min_celsius": 9.29,
+  "temp_max_celsius": 9.29,
+  "humidity": 58,
+  "feels_like_celsius": 8.32,
   "pressure": 1016,
   "visibility": 10000,
-  "wind_deg": 100,
+  "wind_deg": 90,
   "gust_speed": ,
-  "wind_speed": 3.09,
+  "wind_speed": 2.06,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 75,
-  "sunrise_readable": "2025-03-20 03:45:24",
-  "sunset_readable": "2025-03-20 15:52:11",
+  "clouds": 20,
+  "sunrise_readable": "2025-03-21 03:43:57",
+  "sunset_readable": "2025-03-21 15:53:01",
   "timezone": 32400,
   "coord_lon": 139.6917,
   "coord_lat": 35.6895,
   "wind_direction_text": "East",
   "weather_description_with_wind": "Wind Direction: East",
   "forecast_24h": [          {
-            "temperature_celsius": 8.40,
+            "temperature_celsius": 8.15,
             "condition": "Clouds",
-            "icon_code": "04n",
-            "date_readable": "22:00"
-          },          {
-            "temperature_celsius": 8.32,
-            "condition": "Clouds",
-            "icon_code": "04n",
+            "icon_code": "02n",
             "date_readable": "01:00"
           },          {
-            "temperature_celsius": 7.61,
-            "condition": "Clouds",
-            "icon_code": "03d",
+            "temperature_celsius": 7.21,
+            "condition": "Clear",
+            "icon_code": "01d",
             "date_readable": "04:00"
           },          {
             "temperature_celsius": 9.04,
@@ -65,6 +60,11 @@
             "condition": "Clear",
             "icon_code": "01n",
             "date_readable": "19:00"
+          },          {
+            "temperature_celsius": 12.94,
+            "condition": "Clear",
+            "icon_code": "01n",
+            "date_readable": "22:00"
           },
   ]
 }
