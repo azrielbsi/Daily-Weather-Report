@@ -2,69 +2,69 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": 13.82,
+  "temperature_celsius": 13.42,
   "condition": "Clear",
   "condition_description": "clear sky",
   "icon_code": "01n",
-  "temp_min_celsius": 11.45,
-  "temp_max_celsius": 14.80,
-  "humidity": 63,
-  "feels_like_celsius": 12.90,
+  "temp_min_celsius": 11.99,
+  "temp_max_celsius": 14.24,
+  "humidity": 69,
+  "feels_like_celsius": 12.62,
   "pressure": 1007,
   "visibility": 10000,
-  "wind_deg": 0,
+  "wind_deg": 100,
   "gust_speed": ,
-  "wind_speed": 0.51,
+  "wind_speed": 2.57,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 0,
-  "sunrise_readable": "2025-04-09 03:16:50",
+  "sunrise_readable": "2025-04-09 03:16:49",
   "sunset_readable": "2025-04-09 16:08:32",
   "timezone": 32400,
-  "coord_lon": 139.6917,
-  "coord_lat": 35.6895,
-  "wind_direction_text": "North",
-  "weather_description_with_wind": "Wind Direction: North",
+  "coord_lon": 139.6922,
+  "coord_lat": 35.6897,
+  "wind_direction_text": "East",
+  "weather_description_with_wind": "Wind Direction: East",
   "forecast_24h": [          {
-            "temperature_celsius": 13.82,
-            "condition": "Clear",
-            "icon_code": "01n",
-            "date_readable": "01:00"
-          },          {
-            "temperature_celsius": 13.52,
+            "temperature_celsius": 13.34,
             "condition": "Clear",
             "icon_code": "01d",
             "date_readable": "04:00"
           },          {
-            "temperature_celsius": 15.11,
+            "temperature_celsius": 15.05,
             "condition": "Clear",
             "icon_code": "01d",
             "date_readable": "07:00"
           },          {
-            "temperature_celsius": 18.64,
+            "temperature_celsius": 18.96,
             "condition": "Clear",
             "icon_code": "01d",
             "date_readable": "10:00"
           },          {
-            "temperature_celsius": 19.80,
+            "temperature_celsius": 19.79,
             "condition": "Clear",
             "icon_code": "01d",
             "date_readable": "13:00"
           },          {
-            "temperature_celsius": 18.77,
-            "condition": "Clear",
-            "icon_code": "01d",
+            "temperature_celsius": 18.59,
+            "condition": "Clouds",
+            "icon_code": "02d",
             "date_readable": "16:00"
           },          {
-            "temperature_celsius": 14.70,
-            "condition": "Clear",
-            "icon_code": "01n",
+            "temperature_celsius": 14.90,
+            "condition": "Clouds",
+            "icon_code": "03n",
             "date_readable": "19:00"
           },          {
-            "temperature_celsius": 14.42,
+            "temperature_celsius": 14.41,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "22:00"
+          },          {
+            "temperature_celsius": 13.77,
+            "condition": "Clouds",
+            "icon_code": "04n",
+            "date_readable": "01:00"
           },
   ]
 }
