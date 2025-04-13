@@ -2,43 +2,38 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": 13.74,
+  "temperature_celsius": 13.68,
   "condition": "Clouds",
-  "condition_description": "broken clouds",
-  "icon_code": "04d",
+  "condition_description": "scattered clouds",
+  "icon_code": "03d",
   "temp_min_celsius": 12.55,
   "temp_max_celsius": 14.24,
-  "humidity": 95,
-  "feels_like_celsius": 13.65,
+  "humidity": 94,
+  "feels_like_celsius": 13.56,
   "pressure": 1000,
   "visibility": 10000,
-  "wind_deg": 280,
+  "wind_deg": 290,
   "gust_speed": ,
-  "wind_speed": 5.14,
+  "wind_speed": 3.6,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 75,
+  "clouds": 40,
   "sunrise_readable": "2025-04-14 03:10:04",
   "sunset_readable": "2025-04-14 16:12:39",
   "timezone": 32400,
   "coord_lon": 139.6917,
   "coord_lat": 35.6895,
-  "wind_direction_text": "West",
-  "weather_description_with_wind": "Wind Direction: West",
+  "wind_direction_text": "West-Northwest",
+  "weather_description_with_wind": "Wind Direction: West-Northwest",
   "forecast_24h": [          {
-            "temperature_celsius": 13.74,
-            "condition": "Rain",
-            "icon_code": "10d",
-            "date_readable": "04:00"
-          },          {
-            "temperature_celsius": 14.87,
+            "temperature_celsius": 14.85,
             "condition": "Clouds",
-            "icon_code": "04d",
+            "icon_code": "03d",
             "date_readable": "07:00"
           },          {
-            "temperature_celsius": 17.69,
+            "temperature_celsius": 17.68,
             "condition": "Clouds",
-            "icon_code": "04d",
+            "icon_code": "03d",
             "date_readable": "10:00"
           },          {
             "temperature_celsius": 21.49,
@@ -65,6 +60,11 @@
             "condition": "Clouds",
             "icon_code": "03n",
             "date_readable": "01:00"
+          },          {
+            "temperature_celsius": 15.51,
+            "condition": "Rain",
+            "icon_code": "10d",
+            "date_readable": "04:00"
           },
   ]
 }
