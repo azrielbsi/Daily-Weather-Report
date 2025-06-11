@@ -14,7 +14,7 @@
   "visibility": 10000,
   "wind_deg": 70,
   "gust_speed": ,
-  "wind_speed": 2.57,
+  "wind_speed": 2.06,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 75,
@@ -26,17 +26,17 @@
   "wind_direction_text": "East-Northeast",
   "weather_description_with_wind": "Wind Direction: East-Northeast",
   "forecast_24h": [          {
-            "temperature_celsius": 20.54,
+            "temperature_celsius": 20.58,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "22:00"
           },          {
-            "temperature_celsius": 20.52,
+            "temperature_celsius": 20.55,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "01:00"
           },          {
-            "temperature_celsius": 21.15,
+            "temperature_celsius": 20.96,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "04:00"
