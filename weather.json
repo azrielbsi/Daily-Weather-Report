@@ -7,12 +7,12 @@
   "condition_description": "scattered clouds",
   "icon_code": "03n",
   "temp_min_celsius": 27.10,
-  "temp_max_celsius": 28.70,
+  "temp_max_celsius": 28.69,
   "humidity": 77,
   "feels_like_celsius": 32.60,
   "pressure": 1011,
   "visibility": 10000,
-  "wind_deg": 180,
+  "wind_deg": 190,
   "gust_speed": ,
   "wind_speed": 6.17,
   "rainfall_mm": ,
@@ -26,19 +26,19 @@
   "wind_direction_text": "South",
   "weather_description_with_wind": "Wind Direction: South",
   "forecast_24h": [          {
-            "temperature_celsius": 28.10,
+            "temperature_celsius": 28.40,
             "condition": "Clouds",
             "icon_code": "03n",
             "date_readable": "22:00"
           },          {
-            "temperature_celsius": 27.56,
+            "temperature_celsius": 27.98,
             "condition": "Clouds",
-            "icon_code": "02n",
+            "icon_code": "03n",
             "date_readable": "01:00"
           },          {
-            "temperature_celsius": 27.33,
-            "condition": "Clear",
-            "icon_code": "01d",
+            "temperature_celsius": 27.69,
+            "condition": "Clouds",
+            "icon_code": "02d",
             "date_readable": "04:00"
           },          {
             "temperature_celsius": 30.11,
