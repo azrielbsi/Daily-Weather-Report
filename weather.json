@@ -4,8 +4,8 @@
   "longitude": 139.6917,
   "temperature_celsius": 26.92,
   "condition": "Rain",
-  "condition_description": "light intensity shower rain",
-  "icon_code": "09n",
+  "condition_description": "moderate rain",
+  "icon_code": "10n",
   "temp_min_celsius": 25.90,
   "temp_max_celsius": 27.79,
   "humidity": 90,
@@ -13,9 +13,9 @@
   "pressure": 1004,
   "visibility": 10000,
   "wind_deg": 210,
-  "gust_speed": ,
-  "wind_speed": 10.29,
-  "rainfall_mm": 164.59,
+  "gust_speed": 16.46,
+  "wind_speed": 11.32,
+  "rainfall_mm": 69.34,
   "snowfall_mm": ,
   "clouds": 75,
   "sunrise_readable": "2025-08-11 02:56:48",
@@ -26,45 +26,45 @@
   "wind_direction_text": "South-Southwest",
   "weather_description_with_wind": "Wind Direction: South-Southwest",
   "forecast_24h": [          {
-            "temperature_celsius": 26.92,
-            "condition": "Rain",
-            "icon_code": "10n",
-            "date_readable": "01:00"
-          },          {
-            "temperature_celsius": 27.28,
+            "temperature_celsius": 27.27,
             "condition": "Rain",
             "icon_code": "10d",
             "date_readable": "04:00"
           },          {
-            "temperature_celsius": 26.79,
-            "condition": "Rain",
-            "icon_code": "10d",
+            "temperature_celsius": 28.10,
+            "condition": "Clouds",
+            "icon_code": "04d",
             "date_readable": "07:00"
           },          {
-            "temperature_celsius": 27.91,
+            "temperature_celsius": 29.75,
             "condition": "Rain",
             "icon_code": "10d",
             "date_readable": "10:00"
           },          {
-            "temperature_celsius": 28.39,
+            "temperature_celsius": 29.91,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "13:00"
           },          {
-            "temperature_celsius": 27.97,
+            "temperature_celsius": 29.42,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "16:00"
           },          {
-            "temperature_celsius": 27.56,
+            "temperature_celsius": 29.10,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "19:00"
           },          {
-            "temperature_celsius": 27.11,
+            "temperature_celsius": 28.66,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "22:00"
+          },          {
+            "temperature_celsius": 28.49,
+            "condition": "Clouds",
+            "icon_code": "04n",
+            "date_readable": "01:00"
           },
   ]
 }
