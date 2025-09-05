@@ -8,8 +8,8 @@
   "icon_code": "01n",
   "temp_min_celsius": 21.55,
   "temp_max_celsius": 24.80,
-  "humidity": 89,
-  "feels_like_celsius": 24.70,
+  "humidity": 87,
+  "feels_like_celsius": 24.65,
   "pressure": 1009,
   "visibility": 10000,
   "wind_deg": 117,
@@ -26,7 +26,7 @@
   "wind_direction_text": "East-Southeast",
   "weather_description_with_wind": "Wind Direction: East-Southeast",
   "forecast_24h": [          {
-            "temperature_celsius": 24.07,
+            "temperature_celsius": 24.05,
             "condition": "Clear",
             "icon_code": "01d",
             "date_readable": "04:00"
