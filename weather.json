@@ -2,14 +2,14 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": 27.45,
+  "temperature_celsius": 27.29,
   "condition": "Clouds",
-  "condition_description": "broken clouds",
-  "icon_code": "04n",
-  "temp_min_celsius": 26.48,
+  "condition_description": "scattered clouds",
+  "icon_code": "03n",
+  "temp_min_celsius": 25.34,
   "temp_max_celsius": 28.13,
-  "humidity": 85,
-  "feels_like_celsius": 31.39,
+  "humidity": 86,
+  "feels_like_celsius": 31.09,
   "pressure": 1015,
   "visibility": 10000,
   "wind_deg": 160,
@@ -17,26 +17,21 @@
   "wind_speed": 2.57,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 75,
-  "sunrise_readable": "2025-09-15 03:23:39",
-  "sunset_readable": "2025-09-15 15:49:44",
+  "clouds": 40,
+  "sunrise_readable": "2025-09-16 03:24:24",
+  "sunset_readable": "2025-09-16 15:48:16",
   "timezone": 32400,
   "coord_lon": 139.6917,
   "coord_lat": 35.6895,
   "wind_direction_text": "South-Southeast",
   "weather_description_with_wind": "Wind Direction: South-Southeast",
   "forecast_24h": [          {
-            "temperature_celsius": 27.45,
-            "condition": "Rain",
-            "icon_code": "10n",
-            "date_readable": "22:00"
-          },          {
-            "temperature_celsius": 27.22,
+            "temperature_celsius": 27.12,
             "condition": "Rain",
             "icon_code": "10n",
             "date_readable": "01:00"
           },          {
-            "temperature_celsius": 26.86,
+            "temperature_celsius": 26.81,
             "condition": "Rain",
             "icon_code": "10d",
             "date_readable": "04:00"
@@ -65,6 +60,11 @@
             "condition": "Clouds",
             "icon_code": "02n",
             "date_readable": "19:00"
+          },          {
+            "temperature_celsius": 27.35,
+            "condition": "Clear",
+            "icon_code": "01n",
+            "date_readable": "22:00"
           },
   ]
 }
