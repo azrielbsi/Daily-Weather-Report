@@ -7,7 +7,7 @@
   "condition_description": "clear sky",
   "icon_code": "01d",
   "temp_min_celsius": 15.37,
-  "temp_max_celsius": 17.01,
+  "temp_max_celsius": 16.95,
   "humidity": 45,
   "feels_like_celsius": 15.11,
   "pressure": 1027,
@@ -26,17 +26,17 @@
   "wind_direction_text": "Northeast",
   "weather_description_with_wind": "Wind Direction: Northeast",
   "forecast_24h": [          {
-            "temperature_celsius": 15.83,
-            "condition": "Clouds",
-            "icon_code": "03d",
+            "temperature_celsius": 16.25,
+            "condition": "Clear",
+            "icon_code": "01d",
             "date_readable": "13:00"
           },          {
-            "temperature_celsius": 15.16,
+            "temperature_celsius": 15.70,
             "condition": "Clouds",
-            "icon_code": "04n",
+            "icon_code": "03n",
             "date_readable": "16:00"
           },          {
-            "temperature_celsius": 14.40,
+            "temperature_celsius": 15.02,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "19:00"
