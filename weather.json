@@ -2,41 +2,36 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": 13.15,
+  "temperature_celsius": 15.27,
   "condition": "Clear",
   "condition_description": "clear sky",
   "icon_code": "01d",
-  "temp_min_celsius": 12.59,
-  "temp_max_celsius": 14.33,
+  "temp_min_celsius": 14.27,
+  "temp_max_celsius": 15.93,
   "humidity": 50,
-  "feels_like_celsius": 11.83,
-  "pressure": 1019,
+  "feels_like_celsius": 14.16,
+  "pressure": 1018,
   "visibility": 10000,
-  "wind_deg": 310,
+  "wind_deg": 70,
   "gust_speed": ,
-  "wind_speed": 2.06,
+  "wind_speed": 1.54,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 0,
-  "sunrise_readable": "2025-11-30 04:31:31",
+  "sunrise_readable": "2025-11-30 04:31:32",
   "sunset_readable": "2025-11-30 14:28:27",
   "timezone": 32400,
-  "coord_lon": 139.6917,
-  "coord_lat": 35.6895,
-  "wind_direction_text": "Northwest",
-  "weather_description_with_wind": "Wind Direction: Northwest",
+  "coord_lon": 139.6895,
+  "coord_lat": 35.6897,
+  "wind_direction_text": "East-Northeast",
+  "weather_description_with_wind": "Wind Direction: East-Northeast",
   "forecast_24h": [          {
-            "temperature_celsius": 13.15,
-            "condition": "Clear",
-            "icon_code": "01d",
-            "date_readable": "10:00"
-          },          {
-            "temperature_celsius": 13.89,
+            "temperature_celsius": 15.29,
             "condition": "Clear",
             "icon_code": "01d",
             "date_readable": "13:00"
           },          {
-            "temperature_celsius": 14.35,
+            "temperature_celsius": 15.05,
             "condition": "Clear",
             "icon_code": "01n",
             "date_readable": "16:00"
@@ -65,6 +60,11 @@
             "condition": "Clear",
             "icon_code": "01d",
             "date_readable": "07:00"
+          },          {
+            "temperature_celsius": 16.11,
+            "condition": "Clear",
+            "icon_code": "01d",
+            "date_readable": "10:00"
           },
   ]
 }
