@@ -2,41 +2,36 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": 7.33,
+  "temperature_celsius": 6.80,
   "condition": "Clear",
   "condition_description": "clear sky",
   "icon_code": "01n",
-  "temp_min_celsius": 5.99,
-  "temp_max_celsius": 8.13,
-  "humidity": 88,
-  "feels_like_celsius": 4.94,
+  "temp_min_celsius": 5.33,
+  "temp_max_celsius": 7.79,
+  "humidity": 86,
+  "feels_like_celsius": 3.53,
   "pressure": 1003,
   "visibility": 10000,
-  "wind_deg": 270,
+  "wind_deg": 250,
   "gust_speed": ,
-  "wind_speed": 3.6,
+  "wind_speed": 5.14,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 0,
-  "sunrise_readable": "2025-12-14 04:42:53",
-  "sunset_readable": "2025-12-14 14:28:46",
+  "sunrise_readable": "2025-12-15 04:43:33",
+  "sunset_readable": "2025-12-15 14:29:02",
   "timezone": 32400,
   "coord_lon": 139.6917,
   "coord_lat": 35.6895,
-  "wind_direction_text": "West",
-  "weather_description_with_wind": "Wind Direction: West",
+  "wind_direction_text": "West-Southwest",
+  "weather_description_with_wind": "Wind Direction: West-Southwest",
   "forecast_24h": [          {
-            "temperature_celsius": 7.34,
-            "condition": "Clear",
-            "icon_code": "01n",
-            "date_readable": "22:00"
-          },          {
-            "temperature_celsius": 7.53,
+            "temperature_celsius": 7.17,
             "condition": "Clear",
             "icon_code": "01n",
             "date_readable": "01:00"
           },          {
-            "temperature_celsius": 8.00,
+            "temperature_celsius": 7.82,
             "condition": "Clear",
             "icon_code": "01n",
             "date_readable": "04:00"
@@ -65,6 +60,11 @@
             "condition": "Clear",
             "icon_code": "01n",
             "date_readable": "19:00"
+          },          {
+            "temperature_celsius": 7.44,
+            "condition": "Clear",
+            "icon_code": "01n",
+            "date_readable": "22:00"
           },
   ]
 }
