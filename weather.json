@@ -2,41 +2,36 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": 6.21,
+  "temperature_celsius": 5.61,
   "condition": "Clear",
   "condition_description": "clear sky",
   "icon_code": "01n",
-  "temp_min_celsius": 5.33,
-  "temp_max_celsius": 7.02,
-  "humidity": 67,
-  "feels_like_celsius": 3.90,
-  "pressure": 1014,
+  "temp_min_celsius": 4.77,
+  "temp_max_celsius": 6.47,
+  "humidity": 68,
+  "feels_like_celsius": 4.59,
+  "pressure": 1013,
   "visibility": 10000,
-  "wind_deg": 160,
+  "wind_deg": 280,
   "gust_speed": ,
-  "wind_speed": 3.09,
+  "wind_speed": 1.54,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 0,
-  "sunrise_readable": "2026-01-04 04:51:17",
-  "sunset_readable": "2026-01-04 14:40:12",
+  "sunrise_readable": "2026-01-05 04:51:22",
+  "sunset_readable": "2026-01-05 14:41:00",
   "timezone": 32400,
   "coord_lon": 139.6917,
   "coord_lat": 35.6895,
-  "wind_direction_text": "South-Southeast",
-  "weather_description_with_wind": "Wind Direction: South-Southeast",
+  "wind_direction_text": "West",
+  "weather_description_with_wind": "Wind Direction: West",
   "forecast_24h": [          {
-            "temperature_celsius": 6.21,
-            "condition": "Clear",
-            "icon_code": "01n",
-            "date_readable": "22:00"
-          },          {
-            "temperature_celsius": 6.28,
+            "temperature_celsius": 5.78,
             "condition": "Clouds",
             "icon_code": "02n",
             "date_readable": "01:00"
           },          {
-            "temperature_celsius": 5.90,
+            "temperature_celsius": 5.66,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "04:00"
@@ -65,6 +60,11 @@
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "19:00"
+          },          {
+            "temperature_celsius": 6.18,
+            "condition": "Clouds",
+            "icon_code": "03n",
+            "date_readable": "22:00"
           },
   ]
 }
