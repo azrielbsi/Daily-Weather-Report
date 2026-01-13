@@ -2,22 +2,22 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": 5.83,
-  "condition": "Clear",
-  "condition_description": "clear sky",
-  "icon_code": "01n",
-  "temp_min_celsius": 3.70,
+  "temperature_celsius": 5.47,
+  "condition": "Clouds",
+  "condition_description": "few clouds",
+  "icon_code": "02n",
+  "temp_min_celsius": 3.47,
   "temp_max_celsius": 6.79,
   "humidity": 47,
-  "feels_like_celsius": 2.55,
+  "feels_like_celsius": 1.63,
   "pressure": 1010,
   "visibility": 10000,
   "wind_deg": 340,
   "gust_speed": ,
-  "wind_speed": 4.63,
+  "wind_speed": 5.66,
   "rainfall_mm": ,
   "snowfall_mm": ,
-  "clouds": 0,
+  "clouds": 20,
   "sunrise_readable": "2026-01-14 04:50:38",
   "sunset_readable": "2026-01-14 14:49:05",
   "timezone": 32400,
@@ -26,19 +26,14 @@
   "wind_direction_text": "North-Northwest",
   "weather_description_with_wind": "Wind Direction: North-Northwest",
   "forecast_24h": [          {
-            "temperature_celsius": 5.83,
-            "condition": "Clear",
-            "icon_code": "01n",
-            "date_readable": "04:00"
-          },          {
-            "temperature_celsius": 6.19,
-            "condition": "Clear",
-            "icon_code": "01d",
-            "date_readable": "07:00"
-          },          {
-            "temperature_celsius": 7.74,
+            "temperature_celsius": 5.95,
             "condition": "Clouds",
             "icon_code": "02d",
+            "date_readable": "07:00"
+          },          {
+            "temperature_celsius": 7.62,
+            "condition": "Clouds",
+            "icon_code": "03d",
             "date_readable": "10:00"
           },          {
             "temperature_celsius": 9.66,
@@ -65,6 +60,11 @@
             "condition": "Clear",
             "icon_code": "01n",
             "date_readable": "01:00"
+          },          {
+            "temperature_celsius": 4.76,
+            "condition": "Clouds",
+            "icon_code": "04n",
+            "date_readable": "04:00"
           },
   ]
 }
