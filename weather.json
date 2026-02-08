@@ -2,20 +2,20 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": .57,
-  "condition": "Rain",
-  "condition_description": "moderate rain",
-  "icon_code": "10n",
-  "temp_min_celsius": -.68,
+  "temperature_celsius": .56,
+  "condition": "Clouds",
+  "condition_description": "overcast clouds",
+  "icon_code": "04n",
+  "temp_min_celsius": -.75,
   "temp_max_celsius": 1.48,
-  "humidity": 72,
-  "feels_like_celsius": .57,
-  "pressure": 1007,
+  "humidity": 60,
+  "feels_like_celsius": .56,
+  "pressure": 1008,
   "visibility": 10000,
-  "wind_deg": 321,
-  "gust_speed": 4.47,
-  "wind_speed": 0.45,
-  "rainfall_mm": 25.90,
+  "wind_deg": 338,
+  "gust_speed": 3.13,
+  "wind_speed": 0.89,
+  "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 100,
   "sunrise_readable": "2026-02-08 04:35:56",
@@ -23,20 +23,15 @@
   "timezone": 32400,
   "coord_lon": 139.6917,
   "coord_lat": 35.6895,
-  "wind_direction_text": "Northwest",
-  "weather_description_with_wind": "Wind Direction: Northwest",
+  "wind_direction_text": "North-Northwest",
+  "weather_description_with_wind": "Wind Direction: North-Northwest",
   "forecast_24h": [          {
-            "temperature_celsius": .57,
-            "condition": "Clouds",
-            "icon_code": "04n",
-            "date_readable": "16:00"
-          },          {
-            "temperature_celsius": .31,
+            "temperature_celsius": .30,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "19:00"
           },          {
-            "temperature_celsius": -.52,
+            "temperature_celsius": -.53,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "22:00"
@@ -65,6 +60,11 @@
             "condition": "Clear",
             "icon_code": "01d",
             "date_readable": "13:00"
+          },          {
+            "temperature_celsius": 5.74,
+            "condition": "Clear",
+            "icon_code": "01n",
+            "date_readable": "16:00"
           },
   ]
 }
