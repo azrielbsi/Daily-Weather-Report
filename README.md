@@ -4,11 +4,11 @@
 <p align="center"><a href="https://github.com/azrielbsi/Daily-Weather-Report/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/azrielbsi/Daily-Weather-Report"></a> <a href="https://github.com/azrielbsi/Daily-Weather-Report/issues"><img align="center" src="https://img.shields.io/github/issues/azrielbsi/Daily-Weather-Report"></a> <a href="https://github.com/azrielbsi/Daily-Weather-Report/pulls"><img align="center" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields"></a> <a href="https://github.com/azrielbsi/Daily-Weather-Report/pulls"><img align="center" src="https://img.shields.io/github/issues-pr/azrielbsi/Daily-Weather-Report"></a> <a href="https://github.com/azrielbsi/Daily-Weather-Report/commits/main/"><img align="center" src="https://img.shields.io/github/commit-activity/m/azrielbsi/Daily-Weather-Report"></a> <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/736731255/badge.svg"> <img height='20' align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/736731255/small/week.png"><br><a href="https://github.com/azrielbsi/Daily-Weather-Report"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p>
 <p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/azrielbsi/Daily-Weather-Report/actions/workflows/weather.yml"><img align="center" src="https://github.com/azrielbsi/Daily-Weather-Report/actions/workflows/weather.yml/badge.svg"></a></p>
 <p align="center"><a href="https://github.com/azrielbsi/Daily-Weather-Report/blob/main/README.md">Readme</a> • <a href="https://github.com/azrielbsi/Daily-Weather-Report/blob/main/.github/workflows/weather.yml">Weather-YML</a> • <a href="https://github.com/azrielbsi/Daily-Weather-Report/blob/main/LICENSE">License</a> • <a href="https://github.com/azrielbsi/Daily-Weather-Report/blob/main/scripts/update_readme.sh">update-readme</a> • <a href="https://github.com/azrielbsi/Daily-Weather-Report/blob/main/weather.json">Weather Data</a></p>
-<h3 align='center'>🕒 Indonesian Time(UTC+9.00): <u>2026-02-28 21:30:11 WIB</u> (🤖Automated)</h3>
+<h3 align='center'>🕒 Indonesian Time(UTC+9.00): <u>2026-02-28 22:30:21 WIB</u> (🤖Automated)</h3>
 
 <table align='center'>
 <tr>
-<td align='center'><img src='images/placeholder.png' height='18'> <b>Tokyo</b><br><b>Latitude: 35.6893 Longitude: 139.6899</b><br><img src='images/thermometer.png' height='18'> <b>11.45°C</b><br><img src='https://openweathermap.org/img/w/02n.png' height='50'><br><b>Clouds</b><br><b>(few clouds)</b><br><b>Feels Like: 9.96°C<br><b>Wind Direction: North-Northwest</b></b></td>
+<td align='center'><img src='images/placeholder.png' height='18'> <b>Tokyo</b><br><b>Latitude: 35.6895 Longitude: 139.6917</b><br><img src='images/thermometer.png' height='18'> <b>11.30°C</b><br><img src='https://openweathermap.org/img/w/02n.png' height='50'><br><b>Clouds</b><br><b>(few clouds)</b><br><b>Feels Like: 9.77°C<br><b>Wind Direction: North-Northwest</b></b></td>
 </tr>
 <td>
 <table>
@@ -17,11 +17,11 @@
 
 </tr>
 <tr>
-<td align='center'><img src='images/fast.png' height='25'><br>Minimum<br>Temperature:<br><b>10.31°C</b></td>
-<td align='center'><img src='images/fast.png' height='25'><br>Maximum<br>Temperature:<br><b>12.11°C</b></td>
+<td align='center'><img src='images/fast.png' height='25'><br>Minimum<br>Temperature:<br><b>9.32°C</b></td>
+<td align='center'><img src='images/fast.png' height='25'><br>Maximum<br>Temperature:<br><b>12.13°C</b></td>
 </tr>
 <tr>
-<td align='center'><img src='images/humidity.png' height='25'><br>Humidity:<br><b>50%</b></td>
+<td align='center'><img src='images/humidity.png' height='25'><br>Humidity:<br><b>49%</b></td>
 <td align='center'><img src='images/atmospheric.png' height='25'><br>Atmospheric<br>Pressure:<br><b>1015 hPa</b></td>
 </tr>
 <tr>
@@ -33,22 +33,22 @@
 <td align='center'><img src='images/low-visibility.png' height='25'><br>Visibility:<br><b>10000 Meters</b></td>
 </tr>
 <tr>
-<td align='center'><img src='images/sunrise.png' height='25'><br>Sunrise:<br><b>2026-02-28 04:13:30</b></td>
-<td align='center'><img src='images/sunsets.png' height='25'><br>Sunset:<br><b>2026-02-28 15:34:37</b></td>
+<td align='center'><img src='images/sunrise.png' height='25'><br>Sunrise:<br><b>2026-03-01 04:12:12</b></td>
+<td align='center'><img src='images/sunsets.png' height='25'><br>Sunset:<br><b>2026-03-01 15:35:32</b></td>
 </tr>
 </table>
 </table>
 <h2 align=center><img src=images/clock.png height=25> Next 24 Hours</h2>
 <table align=center>
 <tr>
-<td align=center><b>11.58°C</b><br><img src='https://openweathermap.org/img/w/02n.png' height='50'><br><b>Clouds</b><br><b>22:00</b></td>
-<td align=center><b>10.85°C</b><br><img src='https://openweathermap.org/img/w/02n.png' height='50'><br><b>Clouds</b><br><b>01:00</b></td>
-<td align=center><b>9.56°C</b><br><img src='https://openweathermap.org/img/w/01n.png' height='50'><br><b>Clear</b><br><b>04:00</b></td>
+<td align=center><b>10.64°C</b><br><img src='https://openweathermap.org/img/w/02n.png' height='50'><br><b>Clouds</b><br><b>01:00</b></td>
+<td align=center><b>9.45°C</b><br><img src='https://openweathermap.org/img/w/01n.png' height='50'><br><b>Clear</b><br><b>04:00</b></td>
 <td align=center><b>10.46°C</b><br><img src='https://openweathermap.org/img/w/01d.png' height='50'><br><b>Clear</b><br><b>07:00</b></td>
 <td align=center><b>13.99°C</b><br><img src='https://openweathermap.org/img/w/04d.png' height='50'><br><b>Clouds</b><br><b>10:00</b></td>
 <td align=center><b>15.58°C</b><br><img src='https://openweathermap.org/img/w/03d.png' height='50'><br><b>Clouds</b><br><b>13:00</b></td>
 <td align=center><b>14.39°C</b><br><img src='https://openweathermap.org/img/w/01n.png' height='50'><br><b>Clear</b><br><b>16:00</b></td>
 <td align=center><b>13.73°C</b><br><img src='https://openweathermap.org/img/w/03n.png' height='50'><br><b>Clouds</b><br><b>19:00</b></td>
+<td align=center><b>12.94°C</b><br><img src='https://openweathermap.org/img/w/10n.png' height='50'><br><b>Rain</b><br><b>22:00</b></td>
 </tr>
 </table>
 <h2>📄 License</h2>
