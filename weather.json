@@ -2,19 +2,19 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": 21.83,
+  "temperature_celsius": 20.88,
   "condition": "Clouds",
   "condition_description": "broken clouds",
   "icon_code": "04d",
-  "temp_min_celsius": 19.81,
-  "temp_max_celsius": 23.95,
-  "humidity": 71,
-  "feels_like_celsius": 21.92,
-  "pressure": 1006,
+  "temp_min_celsius": 19.79,
+  "temp_max_celsius": 22.01,
+  "humidity": 72,
+  "feels_like_celsius": 20.90,
+  "pressure": 1005,
   "visibility": 10000,
-  "wind_deg": 190,
+  "wind_deg": 200,
   "gust_speed": ,
-  "wind_speed": 7.2,
+  "wind_speed": 9.26,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 75,
@@ -23,20 +23,15 @@
   "timezone": 32400,
   "coord_lon": 139.6917,
   "coord_lat": 35.6895,
-  "wind_direction_text": "South",
-  "weather_description_with_wind": "Wind Direction: South",
+  "wind_direction_text": "South-Southwest",
+  "weather_description_with_wind": "Wind Direction: South-Southwest",
   "forecast_24h": [          {
-            "temperature_celsius": 21.56,
-            "condition": "Clouds",
-            "icon_code": "04d",
-            "date_readable": "13:00"
-          },          {
-            "temperature_celsius": 21.40,
+            "temperature_celsius": 20.94,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "16:00"
           },          {
-            "temperature_celsius": 19.96,
+            "temperature_celsius": 19.77,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "19:00"
@@ -61,10 +56,15 @@
             "icon_code": "04d",
             "date_readable": "07:00"
           },          {
-            "temperature_celsius": 19.30,
+            "temperature_celsius": 20.26,
+            "condition": "Clouds",
+            "icon_code": "03d",
+            "date_readable": "10:00"
+          },          {
+            "temperature_celsius": 21.36,
             "condition": "Clouds",
             "icon_code": "04d",
-            "date_readable": "10:00"
+            "date_readable": "13:00"
           },
   ]
 }
