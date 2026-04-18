@@ -2,19 +2,19 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": 16.81,
+  "temperature_celsius": 14.87,
   "condition": "Clouds",
   "condition_description": "broken clouds",
   "icon_code": "04n",
-  "temp_min_celsius": 16.81,
-  "temp_max_celsius": 16.81,
-  "humidity": 76,
-  "feels_like_celsius": 16.53,
+  "temp_min_celsius": 13.22,
+  "temp_max_celsius": 15.90,
+  "humidity": 93,
+  "feels_like_celsius": 14.84,
   "pressure": 1015,
   "visibility": 10000,
-  "wind_deg": 226,
-  "gust_speed": 1.73,
-  "wind_speed": 1.27,
+  "wind_deg": 180,
+  "gust_speed": ,
+  "wind_speed": 1.54,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 75,
@@ -23,20 +23,15 @@
   "timezone": 32400,
   "coord_lon": 139.6917,
   "coord_lat": 35.6895,
-  "wind_direction_text": "Southwest",
-  "weather_description_with_wind": "Wind Direction: Southwest",
+  "wind_direction_text": "South",
+  "weather_description_with_wind": "Wind Direction: South",
   "forecast_24h": [          {
-            "temperature_celsius": 16.81,
-            "condition": "Clouds",
-            "icon_code": "04n",
-            "date_readable": "01:00"
-          },          {
-            "temperature_celsius": 16.84,
+            "temperature_celsius": 15.59,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "04:00"
           },          {
-            "temperature_celsius": 18.30,
+            "temperature_celsius": 17.66,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "07:00"
@@ -61,10 +56,15 @@
             "icon_code": "04n",
             "date_readable": "19:00"
           },          {
-            "temperature_celsius": 18.05,
+            "temperature_celsius": 18.13,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "22:00"
+          },          {
+            "temperature_celsius": 17.43,
+            "condition": "Clouds",
+            "icon_code": "04n",
+            "date_readable": "01:00"
           },
   ]
 }
