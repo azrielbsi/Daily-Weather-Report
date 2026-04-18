@@ -2,27 +2,27 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": 18.37,
+  "temperature_celsius": 19.05,
   "condition": "Clouds",
   "condition_description": "overcast clouds",
   "icon_code": "04d",
-  "temp_min_celsius": 18.37,
-  "temp_max_celsius": 18.37,
-  "humidity": 63,
-  "feels_like_celsius": 17.91,
+  "temp_min_celsius": 19.05,
+  "temp_max_celsius": 19.05,
+  "humidity": 60,
+  "feels_like_celsius": 18.58,
   "pressure": 1016,
   "visibility": 10000,
-  "wind_deg": 30,
-  "gust_speed": 1.71,
-  "wind_speed": 1.4,
+  "wind_deg": 18,
+  "gust_speed": 2.01,
+  "wind_speed": 1.69,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 99,
   "sunrise_readable": "2026-04-19 03:03:55",
-  "sunset_readable": "2026-04-19 16:16:38",
+  "sunset_readable": "2026-04-19 16:16:37",
   "timezone": 32400,
-  "coord_lon": 139.69,
-  "coord_lat": 35.69,
+  "coord_lon": 139.6917,
+  "coord_lat": 35.6895,
   "wind_direction_text": "North-Northeast",
   "weather_description_with_wind": "Wind Direction: North-Northeast",
   "forecast_24h": [          {
@@ -36,17 +36,17 @@
             "icon_code": "04d",
             "date_readable": "10:00"
           },          {
-            "temperature_celsius": 22.74,
+            "temperature_celsius": 22.70,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "13:00"
           },          {
-            "temperature_celsius": 21.16,
+            "temperature_celsius": 21.09,
             "condition": "Clouds",
             "icon_code": "04d",
             "date_readable": "16:00"
           },          {
-            "temperature_celsius": 19.24,
+            "temperature_celsius": 19.22,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "19:00"
@@ -56,7 +56,7 @@
             "icon_code": "04n",
             "date_readable": "22:00"
           },          {
-            "temperature_celsius": 17.43,
+            "temperature_celsius": 17.27,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "01:00"
