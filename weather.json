@@ -2,41 +2,36 @@
   "city": "Tokyo",
   "latitude": 35.6895,
   "longitude": 139.6917,
-  "temperature_celsius": 18.46,
+  "temperature_celsius": 17.40,
   "condition": "Clouds",
   "condition_description": "broken clouds",
   "icon_code": "04n",
-  "temp_min_celsius": 15.44,
-  "temp_max_celsius": 19.24,
-  "humidity": 36,
-  "feels_like_celsius": 17.30,
+  "temp_min_celsius": 14.81,
+  "temp_max_celsius": 18.13,
+  "humidity": 37,
+  "feels_like_celsius": 16.16,
   "pressure": 1018,
   "visibility": 10000,
-  "wind_deg": 80,
+  "wind_deg": 20,
   "gust_speed": ,
-  "wind_speed": 2.06,
+  "wind_speed": 5.14,
   "rainfall_mm": ,
   "snowfall_mm": ,
   "clouds": 75,
-  "sunrise_readable": "2026-05-09 02:41:49",
-  "sunset_readable": "2026-05-09 16:33:36",
+  "sunrise_readable": "2026-05-10 02:40:54",
+  "sunset_readable": "2026-05-10 16:34:27",
   "timezone": 32400,
   "coord_lon": 139.6917,
   "coord_lat": 35.6895,
-  "wind_direction_text": "East",
-  "weather_description_with_wind": "Wind Direction: East",
+  "wind_direction_text": "North-Northeast",
+  "weather_description_with_wind": "Wind Direction: North-Northeast",
   "forecast_24h": [          {
-            "temperature_celsius": 17.88,
-            "condition": "Clouds",
-            "icon_code": "04n",
-            "date_readable": "22:00"
-          },          {
-            "temperature_celsius": 17.78,
+            "temperature_celsius": 17.50,
             "condition": "Clouds",
             "icon_code": "04n",
             "date_readable": "01:00"
           },          {
-            "temperature_celsius": 16.85,
+            "temperature_celsius": 16.71,
             "condition": "Clouds",
             "icon_code": "03d",
             "date_readable": "04:00"
@@ -65,6 +60,11 @@
             "condition": "Clouds",
             "icon_code": "02n",
             "date_readable": "19:00"
+          },          {
+            "temperature_celsius": 17.92,
+            "condition": "Clear",
+            "icon_code": "01n",
+            "date_readable": "22:00"
           },
   ]
 }
