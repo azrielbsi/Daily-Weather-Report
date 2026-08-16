@@ -4,11 +4,11 @@
 <p align="center"><a href="https://github.com/azrielbsi/Daily-Weather-Report/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/azrielbsi/Daily-Weather-Report"></a> <a href="https://github.com/azrielbsi/Daily-Weather-Report/issues"><img align="center" src="https://img.shields.io/github/issues/azrielbsi/Daily-Weather-Report"></a> <a href="https://github.com/azrielbsi/Daily-Weather-Report/pulls"><img align="center" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields"></a> <a href="https://github.com/azrielbsi/Daily-Weather-Report/pulls"><img align="center" src="https://img.shields.io/github/issues-pr/azrielbsi/Daily-Weather-Report"></a> <a href="https://github.com/azrielbsi/Daily-Weather-Report/commits/main/"><img align="center" src="https://img.shields.io/github/commit-activity/m/azrielbsi/Daily-Weather-Report"></a> <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/736731255/badge.svg"> <img height='20' align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/736731255/small/week.png"><br><a href="https://github.com/azrielbsi/Daily-Weather-Report"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p>
 <p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/azrielbsi/Daily-Weather-Report/actions/workflows/weather.yml"><img align="center" src="https://github.com/azrielbsi/Daily-Weather-Report/actions/workflows/weather.yml/badge.svg"></a></p>
 <p align="center"><a href="https://github.com/azrielbsi/Daily-Weather-Report/blob/main/README.md">Readme</a> • <a href="https://github.com/azrielbsi/Daily-Weather-Report/blob/main/.github/workflows/weather.yml">Weather-YML</a> • <a href="https://github.com/azrielbsi/Daily-Weather-Report/blob/main/LICENSE">License</a> • <a href="https://github.com/azrielbsi/Daily-Weather-Report/blob/main/scripts/update_readme.sh">update-readme</a> • <a href="https://github.com/azrielbsi/Daily-Weather-Report/blob/main/weather.json">Weather Data</a></p>
-<h3 align='center'>🕒 Indonesian Time(UTC+9.00): <u>2026-08-17 01:37:27 WIB</u> (🤖Automated)</h3>
+<h3 align='center'>🕒 Indonesian Time(UTC+9.00): <u>2026-08-17 02:25:31 WIB</u> (🤖Automated)</h3>
 
 <table align='center'>
 <tr>
-<td align='center'><img src='images/placeholder.png' height='18'> <b>Tokyo</b><br><b>Latitude: 35.6895 Longitude: 139.6917</b><br><img src='images/thermometer.png' height='18'> <b>23.22°C</b><br><img src='https://openweathermap.org/img/w/04n.png' height='50'><br><b>Clouds</b><br><b>(overcast clouds)</b><br><b>Feels Like: 24.08°C<br><b>Wind Direction: North-Northeast</b></b></td>
+<td align='center'><img src='images/placeholder.png' height='18'> <b>Tokyo</b><br><b>Latitude: 35.6895 Longitude: 139.6917</b><br><img src='images/thermometer.png' height='18'> <b>23.33°C</b><br><img src='https://openweathermap.org/img/w/04n.png' height='50'><br><b>Clouds</b><br><b>(overcast clouds)</b><br><b>Feels Like: 24.20°C<br><b>Wind Direction: North-Northeast</b></b></td>
 </tr>
 <td>
 <table>
@@ -41,8 +41,8 @@
 <h2 align=center><img src=images/clock.png height=25> Next 24 Hours</h2>
 <table align=center>
 <tr>
-<td align=center><b>23.44°C</b><br><img src='https://openweathermap.org/img/w/04d.png' height='50'><br><b>Clouds</b><br><b>04:00</b></td>
-<td align=center><b>25.75°C</b><br><img src='https://openweathermap.org/img/w/04d.png' height='50'><br><b>Clouds</b><br><b>07:00</b></td>
+<td align=center><b>23.45°C</b><br><img src='https://openweathermap.org/img/w/04d.png' height='50'><br><b>Clouds</b><br><b>04:00</b></td>
+<td align=center><b>25.41°C</b><br><img src='https://openweathermap.org/img/w/04d.png' height='50'><br><b>Clouds</b><br><b>07:00</b></td>
 <td align=center><b>28.97°C</b><br><img src='https://openweathermap.org/img/w/04d.png' height='50'><br><b>Clouds</b><br><b>10:00</b></td>
 <td align=center><b>28.16°C</b><br><img src='https://openweathermap.org/img/w/04d.png' height='50'><br><b>Clouds</b><br><b>13:00</b></td>
 <td align=center><b>27.31°C</b><br><img src='https://openweathermap.org/img/w/04d.png' height='50'><br><b>Clouds</b><br><b>16:00</b></td>
